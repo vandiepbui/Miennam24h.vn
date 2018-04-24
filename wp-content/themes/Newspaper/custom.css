@@ -1,0 +1,1050 @@
+/*CSS custom header*/
+.td-header-style-8 .sf-menu > li > a:hover{
+    text-decoration: none!important;
+}
+
+.sf-menu > li.td-normal-menu > ul.sub-menu {
+    left: 8px;
+}
+
+.td-header-wrap .td-drop-down-search.search-box-fix {
+    position: absolute;
+    top: 37px;
+    right: 0;
+    transition: all 0.4s ease;
+    background-color: #fff;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    border-top: 0;
+    width: 342px;
+}
+
+.td-pb-span.td-sub-footer-copy {
+    padding-left: 6%!important;
+}
+
+/*CSS FOR CAROUSEL*/
+
+.carousel {
+    margin: 0 0 30px 0;
+}
+
+.carousel.slide img {
+
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-position: center center;
+}
+
+/*CSS FOR THREE COLUMN*/
+.col-md-4.motCot {
+    padding: 0;
+}
+
+.motCot h3 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #443d3d;
+    text-transform: uppercase;
+
+    margin-top: 27px;
+    margin-bottom: 17px;
+    border-left: 3px solid #F03939;
+    padding: 5px 0;
+    padding-left: 8px;
+}
+
+.motCot p {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+/*CSS FOR DIVTEXT*/
+.divText {
+    text-align: center;
+}
+
+.divText h2 {
+    font-weight: 600;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #3e3838;
+}
+
+.divText p {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+/*CSS FOR THREE TABS*/
+.row.row-xam {
+    margin-bottom: 15px;
+}
+
+
+.nav-tabs {
+    border-bottom: 1px solid #fff;
+    width: 87%;
+    padding: 0;
+    padding-left: 23%;
+}
+
+a.nav-link.text-muted {
+    color: white;
+     border: 1px solid #fff;
+}
+
+a.nav-link.text-muted:hover {
+     border: 1px solid #fff;
+     background-color: #fff;
+}
+
+a.nav-link.text-muted.active {
+    border: 1px solid #fff;
+}
+
+
+a.nav-link.text-muted.active:hover {
+    border: 1px solid #fff;
+    background-color: #fff;
+}
+
+.tab-pane {
+    height: 345px;
+    background-color:#1D3649;
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.tab-pane .cot1 {
+    height: 345px;
+    color: white;
+    padding-left: 50px;
+}
+
+.tab-pane .cot1 h4 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.tab-pane .cot1 p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 0;
+}
+
+.tab-pane .cot1 a {
+    text-decoration: none;
+    color: #62c3e2;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.col-md-3.cot1.cot-border {
+    border-left: 1px solid white;
+}
+
+
+button.btn.btn-primary.nut-tab {
+    border-radius: 0;
+    margin: 20px 0px;
+    height: 45px;
+    font-weight: 600;
+    background-color: #1D3649;
+    padding: 5px 25px;
+}
+
+.col-md-4.nav-item {
+    padding: 0;
+    width: 28%;
+}
+
+
+button.btn.btn-primary.nut-tab:hover {
+    background-color: #DDDDDD;
+    color: black;
+    border: none;
+}
+
+/* CSS FOR DIV CÁC BÀI VIẾT */
+.col-md-10.tieuDe {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.tieuDe p {
+    color: #504d4d;
+    font-size: 27px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 22px;
+}
+
+.baiViet {
+    background-image: url(http://www.pcworld.com.vn/files/articles/2018/1255556/anh-minh-hoa-1.jpg);
+    background-repeat: no-repeat;
+    background-size: 98% 280px;
+    height: 280px;
+    margin-left: 12px;
+    position: relative;
+}   
+
+.baiViet.baiVietDuoi {
+    background-image: url(http://en.demo.miennam24h.vn/wp-content/uploads/2018/03/ung-dung-gia-lap-android-tot.png);
+    background-repeat: no-repeat;
+    background-size: 98% 280px;
+    height: 280px;
+    margin: 20px 0 20px 10px;
+
+}   
+
+.nenXam {
+    width: 68%;
+    height: 84px;
+    background-color: #2120209c;
+    padding: 18px;
+    position: absolute;
+    top: 20px;
+}
+
+.nenXam a {
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    font-family: sans-serif;
+}
+
+.nenXam p {
+    margin-top: 5px;
+}
+
+.nenXam span {
+    color: white;
+    font-size: 12px;
+}
+
+span.admin {
+    cursor: pointer;
+    margin-right: 3px;
+}
+
+span.glyphicon-comment {
+    cursor: pointer;
+    margin-left: 3px;
+}
+
+.baiViet2{
+    background-image: url(http://en.demo.miennam24h.vn/wp-content/uploads/2018/03/za1-anh-ve-che-het-tet_600x315-534x315-356x220.jpg);
+    background-repeat: no-repeat;
+    background-size: 96% 280px;
+    height: 280px;
+    margin: 20px 0;
+}   
+
+.baiViet3 {
+    background-image: url(http://vnreview.vn/image/17/66/43/1766433.jpg?t=1518404987765);
+    background-repeat: no-repeat;
+    background-size: 100% 280px;
+    height: 280px;
+    margin: 20px 0;
+}   
+
+.nenXam2 {
+    width: 95%;
+    height: 84px;
+    background-color: #2120209c;
+    margin-top: 20px;
+    padding: 15px 13px 15px 17px;
+}
+
+.nenXam2 a {
+    font-size: 16px;
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.nenXam2 p {
+    margin-top: 1px;
+}
+
+.nenXam2 span {
+    color: white;
+    font-size: 12px;
+}
+
+span.admin {
+    font-weight: bold;
+}
+
+button.btn.btn-primary.more-case-button {
+    border-radius: 0;
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    padding: 12px 25px;
+    margin: 20px 25%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+}
+
+button.btn.btn-primary.more-case-button:hover {
+    color: white;
+    background-color: black;
+    transition: 0.5s; 
+}
+
+/* CSS FOR VIDEO VÀ CỘT TEXT PHẢI */
+.col-md-6.video {
+    padding: 0;
+    height: 380px!important;
+}
+
+iframe.nd-video {
+    height: 380px!important;
+}
+
+
+.cotPhai {
+    padding-left: 3%;
+    color: white;
+    padding-right: 8%;
+    min-height: 380px;
+}
+
+.cotPhai h2 {
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.cotPhai p {
+    font-size: 14px!important;
+}
+
+p.tacGia {margin-bottom: 8px;text-align: right;}
+
+p.tacGia2 {
+    margin-left: 413px;
+    margin-bottom: 8px;
+}
+
+p.text {
+    text-align: left;
+    margin-bottom: 15px;
+}
+
+p.text1 {
+    margin-top: -13px;
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+p.text2 {
+    text-align: left;
+    margin-bottom: 10px;
+    margin-top: -17px;
+    margin-left: 5%;
+}
+
+button.btn.btn-primary.nut2 {
+    border-radius: 0;
+    padding: 13px 20px;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #61B1E2;
+    margin-top: -5px;
+    margin-bottom: 5px!important;
+}
+
+
+button.btn.btn-primary.nut2:hover {
+    background-color: black;
+    border: none;
+}
+
+/*CSS FOR FORM */
+.row.form-box {
+    margin-bottom: 25px;
+}
+
+.col-md-8.form-text{
+    padding: 0;
+    margin-left: 9%;
+}
+
+.form-group {
+    padding: 4px 2px;
+}
+
+
+form.form-inline {
+    width: 100%;
+}
+
+h2.tieuDe {
+    color: #3e3939;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+input#company {
+    width: 270px;
+}
+
+input#name {
+    width: 270px;
+}
+
+input#email {
+    width: 350px;
+}
+
+input#phone {
+    width: 190px;
+}
+
+
+input#text {
+    width: 551px;
+    height: 58px;
+}
+
+button.btn.btn-warning.bnt-lg {
+    width: 277px;
+    color: #fff;
+    font-weight: bold;
+    background-color: #F7931E;
+    margin-left: 135px;
+    margin-top: 5px;
+}
+
+/*CSS FOR FOOTER*/
+.col-md-12.footer {
+    background-color: #313E51;
+    min-height: 235px;
+    margin-top: 20px;
+    color: white;
+    padding-bottom: 5px;
+}
+
+.col-sm-4.col-md-4.col-footer h4 {
+    color: white;
+    margin-top: 0!important;
+}
+
+.col-footer a {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+
+.col-footer a:hover {
+    color: #8cc5d8;
+}
+
+.col-sm-4.col-md-4.col-footer.cot1 {
+    padding-left: 5%;
+    padding-top: 15px;
+}
+
+.col-sm-4.col-md-4.col-footer.cot1 p{
+    margin-bottom: 5px;
+}
+
+.col-sm-4.col-md-4.col-footer.cot2 {
+    padding-top: 15px;
+    padding-left: 2%;
+}
+
+.col-footer.cot2 li {
+    line-height: 22px;
+    font-size: 14px;
+}
+
+.col-footer.cot3 {
+    padding-left: 0;
+    padding-top: 15px;
+}
+
+.col-footer.cot3 h4 {
+    font-size: 15px;
+}
+
+.col-footer.cot3 p {
+    font-weight: bold;
+    margin-bottom: 8px;
+    font-size: 13px;
+}
+
+.subFooter {
+    background-color: #202935;
+    color: grey;
+    font-size: 12px;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+
+.col-md-12.subFooter p {
+    font-size: 11px;
+    color: #cac9c9;
+    margin-bottom: 5px;
+}
+
+/*CSS FOR RESPONSIVE*/
+
+@media (min-width: 1019px) {
+    .col-md-4.motCot.cot1 {
+        padding-left: 33px;
+    }
+
+    .col-md-4.motCot.cot2 {
+        padding-left: 28px;
+    }
+
+}
+
+@media (max-width: 1018px) and (min-width: 992px) {
+    .col-md-4.motCot.cot1 {
+        padding-left: 115px;
+    }
+
+    .col-md-4.motCot.cot2 {
+        padding-left: 81px;
+    }
+
+    .col-md-4.motCot.cot3 {
+        padding-left: 25px;
+    }
+
+    .tieuDe p {
+        font-size: 24px;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .col-sm-4.col-md-4.motCot.cot3 {
+        padding-left: 4%;
+    }
+
+    .col-sm-4.col-md-4.motCot.cot2 {
+        padding-left: 9%;
+    }
+
+     .col-sm-4.col-md-4.motCot.cot1 {
+        padding-left: 5%;
+    }
+
+    .nav-tabs {
+        border-bottom: 1px solid #fff;
+        width: 87%;
+        padding: 0;
+        padding-left: 14%;
+        margin-bottom: -19px;
+    }
+
+    .col-md-4.nav-item {
+        padding: 0;
+        width: 32%;
+    }
+    
+    button.btn.btn-primary.nut-tab {
+        border-radius: 0;
+        margin: 20px 0px;
+        height: 45px;
+        font-weight: 600;
+        background-color: #1D3649;
+        padding: 5px 10px;
+    }
+
+    .tieuDe p {
+        font-size: 23px;
+    }
+
+    button.btn.btn-primary.more-case-button {
+        margin-left: 39%;
+    }
+
+    .col-md-8.form-text {
+        padding: 0;
+        margin-left: 5%;
+    }
+}
+
+@media (max-width: 853px) {
+    .col-sm-4.col-md-4.motCot.cot2 {
+        padding-left: 5%;
+    }
+
+    .col-md-8.form-text {
+        padding: 0;
+        margin-left: 6%;
+    }
+
+
+    input#company {
+        width: 230px;
+    }
+
+    input#name {
+        width: 200px;
+    }
+
+    input#email {
+        width: 250px;
+    }
+
+    input#phone {
+        width: 180px;
+    }
+
+
+    input#text {
+        width: 440px;
+        height: 58px;
+    }
+
+    button.btn.btn-warning.bnt-lg {
+        margin-left: 95px;
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .nav-tabs {
+        width: 87%;
+        padding: 0;
+        padding-left: 21%;
+    }
+
+    .col-md-4.nav-item {
+        padding: 0;
+        width: 29%;
+    }
+    
+    button.btn.btn-primary.nut-tab {
+        border-radius: 0;
+        margin: 20px 0px;
+        height: 45px;
+        font-weight: 600;
+        background-color: #1D3649;
+        padding: 5px 15px;
+    }
+
+    .nenXam {
+        width: 75%;
+    }
+
+    .nenXam a {
+        font-size: 19px;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 1199px) {
+    .nenXam a {
+        font-size: 17px;
+    }
+}
+   
+@media (max-width: 1999px) {
+    .tab-pane .cot1 {
+        height: 345px;
+        color: white;
+        padding-left: 2%;
+        background-color: #1D3649;
+    }
+}
+
+@media (max-width: 991px) {
+    .container.div-767 {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .container {
+        width: 100%;
+    }
+
+    .tab-content {
+        margin-top: 20px;
+    }
+
+    .nav-tabs {
+        border-bottom: 1px solid #fff;
+        width: 87%;
+        padding: 0;
+        padding-left: 21%;
+    }
+
+    .col-md-4.nav-item {
+        padding: 0;
+        width: 29%;
+    }
+    
+    button.btn.btn-primary.nut-tab {
+        border-radius: 0;
+        margin: 20px 0px;
+        height: 45px;
+        font-weight: 600;
+        background-color: #1D3649;
+        padding: 5px 15px;
+    }
+
+    .tab-pane .cot1 {
+        height: 345px;
+        color: white;
+        padding-left: 2%;
+        background-color: #1D3649;
+    }
+
+    .subFooter {
+        background-color: #202935;
+        color: grey;
+        font-size: 12px;
+        padding-top: 10px;
+        padding-left: 100px;
+        position: static;
+        height: 40px; 
+    }
+}
+
+@media (max-width: 964px) {
+    .nav-tabs {
+        width: 87%;
+        padding: 0;
+        padding-left: 19%;
+    }
+
+    .col-md-4.nav-item {
+        padding: 0;
+        width: 31%;
+    }
+    
+    button.btn.btn-primary.nut-tab {
+        border-radius: 0;
+        margin: 20px 0px;
+        height: 45px;
+        font-weight: 600;
+        background-color: #1D3649;
+        padding: 7% 10%;
+    }
+}
+
+@media (max-width: 920px) {
+    .nav-tabs {
+        width: 89%;
+        padding: 0;
+        padding-left: 17%;
+    }
+
+    .col-md-4.nav-item {
+        padding: 0;
+        width: 31%;
+    }
+    
+    button.btn.btn-primary.nut-tab {
+        border-radius: 0;
+        margin: 20px 0px;
+        height: 45px;
+        font-weight: 600;
+        background-color: #1D3649;
+        padding: 7% 10%;
+    }
+}
+
+@media (max-width: 860px) {
+    .nav-tabs {
+        width: 92%;
+        padding: 0;
+        padding-left: 15%;
+    }
+
+    .col-md-4.nav-item {
+        padding: 0;
+        width: 31%;
+    }
+    
+    button.btn.btn-primary.nut-tab {
+        border-radius: 0;
+        margin: 20px 0px;
+        height: 45px;
+        font-weight: 600;
+        background-color: #1D3649;
+        padding: 7% 10%;
+    }
+}
+
+@media (max-width: 964px) and (min-width: 874px) {
+    .tab-pane .cot1 {
+        height: 362px;
+        color: white;
+        padding-left: 2%;
+        background-color: #1D3649;
+    }
+
+    .tab-pane {
+        height: 362px;
+        background-color: #1D3649;
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+}
+
+@media (max-width: 873px) {
+    .tab-pane .cot1 {
+        height: 390px;
+        color: white;
+        padding-left: 2%;
+        background-color: #1D3649;
+    }
+}
+
+@media (max-width: 773px) and (min-width: 768px) {
+    .tab-pane .cot1 {
+        height: 420px;
+        color: white;
+        padding-left: 2%;
+        background-color: #1D3649;
+    }
+}
+
+@media (max-width: 767px) {
+    .div-767 {
+        padding: 0;
+    }
+    .col-sm-4.col-md-4.motCot {
+        padding-left: 15px;
+    }
+
+    .col-sm-4.col-md-4.motCot.cot2 {
+        padding-left: 15px;
+    }
+
+    .col-sm-4.col-md-4.motCot.cot3 {
+        margin-bottom: 25px;
+    }
+    
+    .nav-tabs {
+        border-bottom: 1px solid #fff;
+        width: 100%;
+        padding:0;
+        
+    }
+
+    .col-md-4.nav-item {
+        padding: 0;
+        width: 100%;
+    }
+    
+    button.btn.btn-primary.nut-tab {
+        border-radius: 0;
+        margin: 0;
+        height: 45px;
+        font-weight: 600;
+        background-color: #1D3649;
+        padding: 2% 42% 2% 38%;
+    }
+
+    .col-xs-12.col-sm-3.col-md-3.cot1 {
+        height: 244px!important;
+        color: white;
+        padding-left: 4%;
+        border-left: 1px solid #1d3649;
+    }
+
+    .tab-pane {
+        height: 244px!important;
+        background-color: #1D3649;
+        padding-right: 0;
+        padding-left: 0;
+    }
+
+    .col-md-12.cot1 {
+        height: 260px;
+    }
+
+    .col-xs-12.col-sm-3.col-md-3.cot1.cot-empty {
+        height: 1px!important;
+    }
+
+    .col-xs-12.col-sm-3.col-md-3.cot1.cot-border {
+        height: 244px!important;
+        background-color: #1D3649;
+    }
+
+    .tieuDe p {
+        font-size: 21px!important;
+    }
+
+    .nenXam a {
+        font-size: 16px!important;
+    }
+
+    .nenXam {
+        width: 75%;
+    }
+
+    .cotPhai {
+        margin-top: 0;
+        padding-left: 5%;
+        color: white;
+        padding-right: 8%;
+        min-height: 310px;
+    }
+
+    .cotPhai h2 {
+        color: white;
+        margin-top: 0;
+        margin-top: 15px;
+    }
+
+    p.text {
+        text-align: left;
+        margin-bottom: 0px;
+    }
+
+    p.text2 {
+        text-align: right;
+    }
+
+     button.btn.btn-primary.more-case-button {
+        margin-left: 39%;
+    }
+
+    .col-md-8.form-text {
+        width: 100%;
+        padding: 0;
+        margin-left: 4%;
+    }
+
+    input#company {
+        width: 90%;
+    }
+
+    input#name {
+        width: 90%;
+    }
+
+    input#email {
+        width: 90%;
+    }
+
+    input#phone {
+        width: 90%;
+    }
+
+
+    input#text {
+        width: 90%;
+        height: 58px;
+    }
+    
+    .form-group {
+        margin-bottom: 0;
+    }
+    .form-group.form-group-br {
+        margin-top: -20px;
+    }
+
+    button.btn.btn-warning.bnt-lg {
+        width: 277px;
+        color: #fff;
+        font-weight: bold;
+        background-color: #F7931E;
+        margin-left: 25%;
+        margin-top: 5px;
+    }
+
+    .col-md-12.footer {
+        background-color: #313E51;
+        min-height: 490px;
+        margin-top: 20px;
+        color: white;
+        padding-bottom: 5px;
+    }
+
+    .col-sm-4.col-md-4.col-footer.cot1 {
+        padding-left: 2%;
+        padding-top: 15px;
+    }  
+
+    .col-footer.cot3 {
+        padding-left: 2%;
+        padding-top: 15px;
+    }
+
+    .subFooter {
+        padding-left: 35%;
+    } 
+}
+
+@media (max-width: 625px) {
+    .nenXam {
+        width: 90%;
+    }
+
+     button.btn.btn-primary.more-case-button {
+        margin-left: 28%;
+    }
+
+    .cotPhai {
+        margin-top: 2%;
+    }
+
+    .carousel.slide img {
+        height: 310px;
+        width: 100%;
+        background-size: cover;
+        background-position: center center;
+    }
+
+}
+
+@media (max-width: 391px) {
+    .nenXam {
+        width: 100%;
+        height: 130px;
+    }
+
+    .nenXam a {
+        font-size: 14px!important;
+    }
+
+    .nenXam2 {
+        width: 100%;
+        height: 130px;
+    }
+
+    .nenXam2 a {
+        font-size: 13px!important;
+    }
+
+    .carousel.slide img {
+        height: 50px;
+    }
+
+     button.btn.btn-primary.more-case-button {
+        margin-left: 18%;
+    }
+}
+
+@media (max-width: 1140px) {
+    .td-container, .tdc-row {
+        width: 1200%;
+    }
+}
+
+
+
+
